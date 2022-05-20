@@ -25,6 +25,7 @@ Repositorio: https://github.com/lilimonroy/Hack-The-Ocean-Project
 
 - <a href="https://twitter.com/fernando3392" target="blank">Twitter</a>
 - <a href="https://fernandocd0.github.io/my_launchx_blog/" target="blank">Blog</a>
+- <a href="https://www.linkedin.com/in/fernandodelacruz-ingenieromecatronico" target="blank">Linkedin</a>
   
 </p>
 
