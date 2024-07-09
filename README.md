@@ -4,7 +4,7 @@
 
 <br>
 <h3>Actualmente estoy aprendiendo:</h3>
-HTML5 / CSS3 / JS / VUEJS / NODEJS.
+HTML5 / CSS3
 
 <h3>Logros:</h3>
 
